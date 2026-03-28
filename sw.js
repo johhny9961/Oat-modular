@@ -1,4 +1,4 @@
-const CACHE_NAME = "oat-engine-v1";
+const CACHE_NAME = "oat-engine-v2";
 const ASSETS = [
   "./index.html",
   "./manifest.json",
