@@ -1,6 +1,6 @@
-# OAT Engine — Content Generation Guide
+# OAT Engine — Content Generation Guide for people
 
-**Give this document to any LLM alongside the OAT Engine artifact. It tells the LLM exactly how to produce content packs you can paste into the Content Manager.**
+**this is for those who are curious about precicely how the LLM will generate the content. this document takes a ton of tokens, so please give oat-content-schema.md to claude, not this file.**
 
 ---
 
